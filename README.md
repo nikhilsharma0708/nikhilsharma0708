@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nikhilsharma0708
-- 👀 I’m interested in c++ programing , gui making python , backend with python 
+- 👀 I’m interested in c++ programing , gui making with python , backend web-devlopment with python 
 - 🌱 I’m currently learning machine learning 
 - 💞️ I’m looking to collaborate on any machine learning projec 
 - 📫 my gmail - nikhilsharma0708@gmail.com
